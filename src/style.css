@@ -1,0 +1,17 @@
+body {
+	background-color: #eee;
+}
+
+form {
+	max-width: 200px;
+	width: 100%;
+}
+
+button {
+	margin-top: 10px;
+	float: right;
+}
+
+input[type="password"] {
+	margin-top: 5px;
+}
